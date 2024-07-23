@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I'm a jovial person**
 
-<p align="left"></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Front-End</h4>
