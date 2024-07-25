@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for jobs related **Front-End and React JS**
 
-- 👯 I’m in LinkedIn [https://www.linkedin.com/in/rajkumaran-s/](https://www.linkedin.com/in/rajkumaran-s/)
+- 👯 I’m in LinkedIn https://www.linkedin.com/in/rajkumaran-s/
+
+- 💼 Portfolio https://rajkumaran-portfolio.netlify.app
 
 - 💬 Ask me about **React JS, JavaScript, CSS & HTML**
 
